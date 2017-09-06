@@ -1,0 +1,44 @@
+h1 {
+font-family: verdana;
+color: white;
+font-size: 50px;
+text-align: center;
+}
+h2{
+  font-family: verdana;
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+  text-align: center;
+}
+p{
+  font-family: verdana;
+  color: gray;
+  font-size: 21px;
+  text-align: center;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+body {
+    background-color: black;
+  }
+.camp {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+.phone {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+  }
+video {
+    display: block;
+    margin: 0 auto;
+  }
+  .cr{
+    text-align: right;
+  }
